@@ -1,8 +1,4 @@
-Flask
+mysql-connector-python
+Flask 
+Flask-Cors
 requests
-flask-cors
-flask-sqlalchemy
-Flask-Migrate
-gunicorn
-Werkzeug
-
